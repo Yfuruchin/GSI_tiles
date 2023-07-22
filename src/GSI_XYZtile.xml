@@ -1,0 +1,27 @@
+<!DOCTYPE connections>
+<qgsXYZTilesConnections version="1.0">
+    <xyztiles username="" name="地理院00_地形図_地理院標準地図" password="" authcfg="" zmin="2" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="地理院00_地形図_地理院淡色地図" password="" authcfg="" zmin="2" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="地理院00_地形図_地理院白地図" password="" authcfg="" zmin="5" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/blank/{z}/{x}/{y}.png" zmax="14"/>
+    <xyztiles username="" name="地理院00_地形図_地理院English" password="" authcfg="" zmin="5" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/english/{z}/{x}/{y}.png" zmax="11"/>
+    <xyztiles username="" name="地理院01_標高_地理院色別標高図" password="" authcfg="" zmin="5" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/relief/{z}/{x}/{y}.png" zmax="15"/>
+    <xyztiles username="" name="地理院01_標高_アナグリフ_カラー" password="" authcfg="" zmin="5" referer="" url="https://cyberjapandata.gsi.go.jp/xyz/anaglyphmap_color/{z}/{x}/{y}.png" zmax="15"/>
+    <xyztiles username="" name="地理院01_標高_アナグリフ_グレー" password="" authcfg="" zmin="5" referer="" url="https://cyberjapandata.gsi.go.jp/xyz/anaglyphmap_gray/{z}/{x}/{y}.png" zmax="15"/>
+    <xyztiles username="" name="地理院01_標高_陰影起伏図" password="" authcfg="" zmin="5" referer="" url="https://cyberjapandata.gsi.go.jp/xyz/hillshademap/{z}/{x}/{y}.png" zmax="15"/>
+    <xyztiles username="" name="地理院01_標高_陰影起伏図（全球版）" password="" authcfg="" zmin="5" referer="" url="https://cyberjapandata.gsi.go.jp/xyz/earthhillshade/{z}/{x}/{y}.png" zmax="15"/>
+    <xyztiles username="" name="地理院02_写真_全国最新写真（シームレス）" password="" authcfg="" zmin="2" referer="" url="https://cyberjapandata.gsi.go.jp/xyz/seamlessphoto/{z}/{x}/{y}.jpg" zmax="18"/>
+    <xyztiles username="" name="地理院02_写真_簡易空中写真（2004年～）" password="" authcfg="" zmin="2" referer="" url="https://cyberjapandata.gsi.go.jp/xyz/airphoto/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="地理院02_写真_全国ランドサットモザイク画像" password="" authcfg="" zmin="2" referer="" url="https://cyberjapandata.gsi.go.jp/xyz/lndst/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="地理院02_写真_世界衛星モザイク画像" password="" authcfg="" zmin="2" referer="" url="https://cyberjapandata.gsi.go.jp/xyz/modis/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="地理院02_写真_森林（国有林）の空中写真（林野庁）" password="" authcfg="" zmin="2" referer="" url="https://cyberjapandata.gsi.go.jp/xyz/rinya/{z}/{x}/{y}.png" zmax="18"/>
+    <xyztiles username="" name="地理院03_年度別空中写真_電子国土基本図（オルソ画像）（2007年～）" password="" authcfg="" zmin="2" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg" zmax="18"/>
+    <xyztiles username="" name="地理院03_年度別空中写真_1974～1978年_国土画像情報" password="" authcfg="" zmin="10" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/gazo1/{z}/{x}/{y}.jpg" zmax="17"/>
+    <xyztiles username="" name="地理院03_年度別空中写真_1979～1983年_国土画像情報" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/gazo2/{z}/{x}/{y}.jpg" zmax="17"/>
+    <xyztiles username="" name="地理院03_年度別空中写真_1984～1986年_国土画像情報" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/gazo3/{z}/{x}/{y}.jpg" zmax="17"/>
+    <xyztiles username="" name="地理院03_年度別空中写真_1987～1990年_国土画像情報" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/gazo4/{z}/{x}/{y}.jpg" zmax="17"/>
+    <xyztiles username="" name="地理院03_年度別空中写真_1961～1969年_空中写真" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/ort_old10/{z}/{x}/{y}.png" zmax="17"/>
+    <xyztiles username="" name="地理院03_年度別空中写真_1945～1950年_空中写真" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/ort_USA10/{z}/{x}/{y}.png" zmax="17"/>
+    <xyztiles username="" name="地理院03_年度別空中写真_1936～1942年_空中写真_東京23区・大阪市" password="" authcfg="" zmin="15" referer="" url="https://cyberjapandata.gsi.go.jp/xyz/ort_riku10/{z}/{x}/{y}.png" zmax="17"/>
+    <xyztiles username="" name="地理院03_年度別空中写真_1928年ごろ_空中写真_大阪市" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/ort_USA10/{z}/{x}/{y}.png" zmax="17"/>
+    <xyztiles username="" name="地理院03_年度別空中写真_2004年〜_簡易空中写真" password="" authcfg="" zmin="15" referer="" url="http://cyberjapandata.gsi.go.jp/xyz/airphoto/{z}/{x}/{y}.png" zmax="18"/>
+</qgsXYZTilesConnections>
